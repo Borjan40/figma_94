@@ -1,0 +1,58 @@
+body {
+    background-color: #E5E5E5;
+   }
+    
+.left_main {
+    position: absolute;
+    width: 275px;
+    height: 1080px;
+    left: 0px;
+    top: 0px;
+    background: #26354B;
+    border-radius: 0px 42px 0px 0px;
+   }
+
+nav{
+    margin-top: 206px;
+    min-height: auto;
+}
+
+
+.text {
+    font-family:'Cera Pro-Light';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 19px;
+    color: #C5C5D1;
+}  
+
+.var_nav{
+    margin-bottom: 35px;
+}
+
+ul{
+    width: 200px;
+    position: relative;
+    margin: auto 90px;
+    padding: 0;
+    list-style-type: none
+}
+/* .container {
+    position: absolute;
+    top: 100px;
+    margin: auto 90px;
+}
+
+.item_desktop, .item_structure {
+    
+margin-bottom: 33px;
+    
+}
+
+.verh {
+    width:100%;
+    height: 206px;
+    background: red;
+} */
+
