@@ -17,11 +17,11 @@
         url('./fonts/CeraPro/CerPro-Medium/CeraPro-Medium.ttf') format('truetype');
     font-style: normal;
 }
-/* 
+
 @font-face {
-    font-family: 'Cera Pro';
+    font-family: 'Cera Pro-Bold';
     src: url('CeraPro-Bold.eot');
-    src: local('Cera Pro Bold'), local('CeraPro-Bold'),
+    src: local('Cera Pro-Bold'), local('CeraPro-Bold'),
         url('CeraPro-Bold.eot?#iefix') format('embedded-opentype'),
         url('CeraPro-Bold.woff2') format('woff2'),
         url('CeraPro-Bold.woff') format('woff'),
@@ -40,5 +40,5 @@
         url('CeraPro-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
-} */
+}
 
